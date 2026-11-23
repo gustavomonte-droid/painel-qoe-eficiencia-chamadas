@@ -1,0 +1,7 @@
+﻿# Backups e temporarios (nao vao para o GitHub)
+*backup*
+~$*
+*.tmp
+# Cache local do Power BI
+.pbi/localSettings.json
+.pbi/cache.abf
