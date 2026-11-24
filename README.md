@@ -21,4 +21,3 @@ Dashboard em Power BI para acompanhar a eficiencia de chamadas (QoE) de uma rede
 Power BI Desktop, DAX, Excel, Git e GitHub.
 
 Autor: Gustavo Almeida
-LINHA RUIM
