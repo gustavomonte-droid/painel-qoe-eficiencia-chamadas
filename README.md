@@ -1,5 +1,7 @@
 ﻿# Painel QoE - Eficiencia de Chamadas
 
+![Dashboard QoE](Dashboard%20QoE.png)
+
 Dashboard em Power BI para acompanhar a eficiencia de chamadas (QoE) de uma rede movel, por estado, regional e tecnologia (2G/3G, 4G VoLTE e 5G voNR).
 
 > Os dados deste projeto sao **simulados**. Nao ha informacoes reais de nenhuma operadora.
@@ -26,3 +28,4 @@ Autor: Gustavo Almeida
 1. Baixe o repositorio (botao verde Code, depois Download ZIP, ou use git clone).
 2. Abra o arquivo `Eficiencia de chamadas.pbix` no Power BI Desktop.
 3. A base de dados fica em `telecom_rede_movel.xlsx`.
+
