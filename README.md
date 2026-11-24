@@ -21,3 +21,8 @@ Dashboard em Power BI para acompanhar a eficiencia de chamadas (QoE) de uma rede
 Power BI Desktop, DAX, Excel, Git e GitHub.
 
 Autor: Gustavo Almeida
+
+## Como usar
+1. Baixe o repositorio (botao verde Code, depois Download ZIP, ou use git clone).
+2. Abra o arquivo `Eficiencia de chamadas.pbix` no Power BI Desktop.
+3. A base de dados fica em `telecom_rede_movel.xlsx`.
